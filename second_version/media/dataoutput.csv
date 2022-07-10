@@ -1,0 +1,12 @@
+Part Name,Material,Price per 1m2,Square m2,Total price,Width, Height
+GlassDarkFront,,900,0.045924,41.3316,178,258
+Mirror,,1150,0.03638,41.837,170,214
+GlassDarkSide,,900,0.013932,12.5388,54,258
+GlassDarkSide,,900,0.013932,12.5388,54,258
+GlassDarkTop,,900,0.0034,3.06,170,20
+GlassTransShelf,,520,0.0085,4.42,170,50
+,,,,,,
+Total price for glass,115.726,,,,,
+Total price for cutting,240,,,,,
+Total price for processing,148.32,,,,,
+Total for all,504.046,,,,,
